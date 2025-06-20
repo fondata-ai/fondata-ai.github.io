@@ -1,2 +1,3 @@
-# fondata-ai.github.io
-Static company website
+# README
+
+Sources for the Fondata, LLC website

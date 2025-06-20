@@ -1,0 +1,22 @@
+color:
+  palette:
+    dark-grey: "#222222"
+    turquoise: "#53868b"
+    black: "#000000"
+    white: "#ffffff"
+    beige: "#f2c7ac"
+  background: white
+  foreground: black
+  primary: black
+
+logo: 
+  medium: fdlogo.svg
+  small: fdlogo.svg
+
+
+typography:
+  fonts:
+    - family: Jura
+      source: google
+  base: Jura
+  headings: Jura

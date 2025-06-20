@@ -1,0 +1,39 @@
+---
+title: ""
+format: html
+
+---
+::: {.panel-fill}
+![](SocialNetworkAnalysis_clipped.png)
+:::
+<!-- Image from https://commons.wikimedia.org/wiki/User:SlvrKy
+    licensed under the Creative Commons Attribution-Share Alike 4.0 International license. 
+-->
+
+# Welcome to *Fondata, LLC*
+
+## Custom decision modelling to improve your business processes
+
+
+We specialize in a combination of qualitative and quantitative analysis that drive business value, focusing on an organization’s decision making, and anchored by its data. 
+
+Our client-focused approach ensures that we align our expertise with your unique business needs, empowering you to make quality data-driven decisions.
+
+## Our services:
+
+-	Guidance developing and formulating analysis of risky decisions with long-term consequences, for example, whether to attempt a “digital transformation” by shifting operations to cloud automation. 
+-	Development of custom statistical models, designed to support your business goals, for example, A/B testing protocols to improve products and services.
+-	Development of problem-solving models that combine expert judgment and performance data to root-cause failures, for example to improve reliability in lean manufacturing or distributed web services.
+
+## Our experience includes
+
+-	Software automation of business processes,
+-	Developing, prototyping and running data-intensive experiments,  
+-	Implementing solutions using cloud services, such as Azure,
+-	Application of the gamut artificial intelligence methods spanning machine learning, data science, and large language models for prediction and forecasting,
+-	Manager-level training on fundamentals of how to apply AI automation to your business,and foster a culture of evidence-based management.
+
+# Work with us *before* you commit to a major Cloud deployment.
+
+**Contact Us**
+Email: [info "at" fondata.ai](<info@fondata.ai>){.text-font}
