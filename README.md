@@ -2,7 +2,7 @@
 
 Sources for the Fondata, LLC website
 
-This site is created with Quarto. Quarto places the website files in _site/. To work with Github pages, these files are committed to the 'publish' branch by first copying them into the docs/ directory before commiting the publish branch. 
+Fondata's website is a static site, hosted on Github Pages. This site is created with Quarto. Quarto places the website files in _site/. To work with Github pages, these files are committed to the 'publish' branch by first copying them into the docs/ directory before commiting the publish branch. 
 
 # Pushing changes to the website
 Assume updates have been committe to 'main',
