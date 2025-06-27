@@ -5,15 +5,15 @@ about:
 
 ---
 
-## *Meet our founders.*   
+## *Meet our founders and collaborators.*   
 
 We are a team of seasoned applied researchers, data scientists and academics, with experience in optimization, decision analysis, Bayes networks, statistics, and organizational behavior. 
 
-
+----
 
 ### John Mark Agosta
 
-John Mark Agosta has a long and varied applied research career in the Bay Area that extends back over 30 years, to the early days of AI. Most recently he spent eight years with Microsoft, as part of the Azure Data AI Co-innovation Engineering Team. He's held positions at SRI International, Toyota ITC, and Intel Research, interspersed with stints at several startups, during which he's written over 30 peer-reviewed publications and 6 accepted patents.  He founded the Bayesian Applications Workshop in 2002 that accompanies the Uncertainty in AI conference, and was awarded a Business Fellowship at the Santa Fe Institute in 2007. He holds a Bachelor's in Physics from Yale University, a Master's in Science Policy from George Washington University, and a PhD in Management Science and Engineering from Stanford University. 
+John Mark Agosta has a long and varied applied research career in the San Francisco Bay Area that extends back over 30 years, to the early days of AI. Most recently he spent eight years with Microsoft, as part of the Azure Data AI Co-innovation Engineering Team. He's held positions at SRI International, Toyota ITC, and Intel Research, interspersed with stints at several startups, during which he's written over 30 peer-reviewed publications and 6 accepted patents.  He founded the Bayesian Applications Workshop in 2002 that accompanies the Uncertainty in AI conference, and was awarded a Business Fellowship at the Santa Fe Institute in 2007. He holds a Bachelor's in Physics from Yale University, a Master's in Science Policy from George Washington University, and a PhD in Management Science and Engineering from Stanford University. 
 
 Email: [johnmark "dot" agosta "at" fondata.ai](<johnmark.agosta@fondata.ai>)
 
@@ -23,15 +23,18 @@ Email: [johnmark "dot" agosta "at" fondata.ai](<johnmark.agosta@fondata.ai>)
 
 [Find me on Medium.com ](https://medium.com/@johnmark54)
 
+----
 
-### Dana Wang
-
-Email: [dana "dot" wang "at" fondata.ai](<dana.wang@fondata.ai>)
-
-## *Our collaborators* 
 
 We work closely with other specialized software services and products companies, in areas related to our competencies.
 
+<!--
 [Win-Vector Labs](https://www.win-vector.com/) is a San Francisco based company specializing in data science. See their textbook [Practical Data Science with R](http://www.practicaldatascience.com/).
+-->
+## Partnerships
 
-[Bayes Fusion](https://bayesfusion.com/) provides artificial intelligence modeling and machine learning software based on Bayes networks. 
+Fondata is a distributor for [Bayes Fusion](https://bayesfusion.com/) artificial intelligence modeling and machine learning software based on Bayes networks. As a reseller of _Genie_, and _Smile_ software we provide training and consulting for model creation and software integration. We offer a day's consulting service with purchase of any of the products. See [Bayes Fusion](https://bayesfusion.com/) for pricing.  
+
+![](bayesfusion_logo.png)
+
+----
