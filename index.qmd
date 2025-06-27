@@ -12,7 +12,7 @@ format: html
 
 # Welcome to *Fondata, LLC*
 
-## Custom decision modelling to improve your business processes
+## Custom decision modelling to improve your business strategy and processes
 
 
 We specialize in a combination of qualitative and quantitative analysis that drive business value, focusing on an organization’s decision making, and anchored by its data. 
@@ -28,12 +28,14 @@ Our client-focused approach ensures that we align our expertise with your unique
 ## Our experience includes
 
 -	Software automation of business processes,
--	Developing, prototyping and running data-intensive experiments,  
+-	Developing, prototyping, and running data-intensive experiments,  
 -	Implementing solutions using cloud services, such as Azure,
 -	Application of the gamut artificial intelligence methods spanning machine learning, data science, and large language models for prediction and forecasting,
--	Manager-level training on fundamentals of how to apply AI automation to your business,and foster a culture of evidence-based management.
+-	Manager-level training on fundamentals of how to apply AI automation to your business, and foster a culture of evidence-based management.
 
 # Work with us *before* you commit to a major Cloud deployment.
 
 **Contact Us**
 Email: [info "at" fondata.ai](<info@fondata.ai>){.text-font}
+
+----
