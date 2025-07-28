@@ -25,7 +25,7 @@ Our client-focused approach ensures that we align our expertise with your unique
 -	Development of custom statistical models, designed to support your business goals, for example, A/B testing protocols to improve products and services.
 -	Development of problem-solving models that combine expert judgment and performance data to root-cause failures, for example to improve reliability in lean manufacturing or distributed web services.
 
-## Our experience includes
+## Our experience:
 
 -	Software automation of business processes,
 -	Developing, prototyping, and running data-intensive experiments,  
