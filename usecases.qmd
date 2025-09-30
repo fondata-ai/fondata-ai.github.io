@@ -14,7 +14,7 @@ Industry: Enterprise software
 Functional Group: Corporate CFO
 
 Service:
-Using corporate accounting data, Machine Learning forecasting models improved the accuracy and timeliness of financial forecasts used for quarterly stockholder reports, resulting in improved shareholder communications and more time for strategic planning.
+Improved the accuracy and timeliness of financial forecasts used in quarterly stockholder reports by developing machine machine learning forecasting models. Resulted in improved shareholder communications and, by increasing efficiency, allowed CFO to allocate more time to strategic planning.
 
 
 ### Forecasting and Budgeting consolidation in the Cloud
@@ -24,7 +24,7 @@ Industry: Telecommunications
 Functional group: Finance & Budgeting, multinational corporation
 
 Service:
-Forecasting and budgeting by centralizing and consolidating data as a Cloud service across functional groups reduced overall workload, by improving integration across subsidiaries. 
+Moved forecasting and budgeting across functional groups to centralized data in the Cloud. Reduced overall workload and improved integration across subsidiaries. 
 
 ### Real-time Auto-Scaling Deployment Decision
 
@@ -33,7 +33,7 @@ Industry: Cloud software
 Functional Group: Product Engineering
 
 Service: 
-Cloud service provider reported customer website failure under load. Provider asked whether or not to implement auto-scaling -- dynamic adjustment of computer resources based on predicted demand. Prediction models showed auto-scaling optimization had potential savings of $500K/year, but a decision analysis of alternatives showed the ROI did not justify auto-scaling. 
+Cloud service provider presented problem - customer website failure under load -- and asked whether to implement auto-scaling - dynamic adjustment of computer resources based on predicted demand. Developed prediction models showing auto-scaling optimization offered potential savings to $500K/year. Client was advised _not_ to implement autoscaling after further analysis of alternatives showed that ROI did not justify auto-scaling.
 
 ----
 
@@ -45,7 +45,8 @@ Industry: Fast food
 
 Functional Group: CTO 
 
-Service: How many items should be ready-made? Too many - cold and wasted. Too few - lost revenue. Built a real time predition model that trades off lost revenue with cost of discarded goods, to maximize profit.   
+Service: 
+Client asked -- How many items should be ready-made? Too many - goods will be cold and wasted. Too few - lost revenue. Built a real time prediction model that trades off lost revenue with cost of discarded goods, to maximize profit.
 
 ### Sizing Seasonal Agricultural Product Shipping Requirements 
 
@@ -63,7 +64,7 @@ Industry: Consumer Electronics,  Computer Hardware
 Functional Group: Finance & Accounting Operations
 
 Service: 
-Revenue optimization by yield management to optimize inventory turnover. Generated "markdown" models to estimate price elasticity of retail hardware that was used by client to set prices and quotas for existing stock resulting in reduction of inventory of older units, allowing room for new ones.
+Revenue optimization by yield management to trade off forecasted revenue with inventory holding opportunity costs. Generated pricing markdown models by estimating product price elasticity that was used by client to trade off prices and quotas for existing stock, with freeing up inventory of older units and allowing room for new ones.
 
 ### Simulations of Electronic Health Records histories for Hospital management 
 
@@ -71,10 +72,9 @@ Industry: Healthcare
 
 Functional Group: Hospital Finance and Strategic Planning
 
-Service: Estimating hospital bed capacity needs, e.g. number of hospital beds, by detailed simulation of population health trends. Factored in demographics, predicted disease prevalence and seasonal trends. 
+Service: Estimating hospital bed capacity needs, e.g. number of hospital beds, by detailed simulation of population health trends. Factored in demographics, predicted disease prevalence, and seasonal trends to manage hospital budgets and improve health outcomes.
 
 ----
-
 ## Root-cause Analysis Use Cases
 
 ### Semiconductor Fab Root cause fault analysis
@@ -84,7 +84,7 @@ Industry: Semiconductor manufacturing (fabrication plant)
 Functional Group: Lean Manufacturing Operations
 
 Service: 
-Piloted a causal model for ranking the source of equipment faults by their probability. Built an interactive intelligent diagnostic model that codified the knowledge of repair experts, resulting in reduced level of expertise needed. Novel AI approach for on-the-fly model adjustment and learning during diagnostic sessions. Pilot deployment reduced down time, reducing bottlenecks, and increasing throughput worth on the order of a few million dollars incremental revenue per year. 
+Piloted a causal model for ranking the source of equipment faults by their probability. Built an interactive intelligent diagnostic model that codified the knowledge of repair experts, resulting in reduced level of expertise needed. Novel AI approach for on-the-fly model adjustment and learning during diagnostic sessions. Pilot deployment reduced down time, reducing bottlenecks, and increasing throughput. Predicted revenue estimated to be a few million dollars per year. 
 
 ### Diagnosing "OnTime and In Full" (OTIF) Failure Root Causes
 
@@ -94,5 +94,7 @@ Functional Group: Corporate Accounting
 
 Service: 
 Developed a model from existing production data to predict OTIF that revealed that OTIF failures did _not_ originate in production.  Existing production scheduling was driven to avoid presumed shortages in output, resulting in excess inventory sitting in warehouses. Based on exploratory analyses advised the firm to adopt JIT (Just-In-Time manufacturing) to optimize inventory management. 
+
+Identified the true source of inefficiencies in production management. Client assumed OTIF failures originated in production. Developed a model from existing production data to predict OTIF that indicated otherwise. Problem was excessive inventory sitting in warehouses. Based on exploratory analyses, advised the firm to adopt JIT (Just-In-Time manufacturing) to optimize inventory management, saving holding costs."
 
 ----

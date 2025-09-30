@@ -10,22 +10,22 @@ format: html
     licensed under the Creative Commons Attribution-Share Alike 4.0 International license. 
 -->
 
-# Welcome to *Fondata, LLC*
+# *Fondata, LLC*
 
 ## Custom decision modelling to improve your business strategy and processes
 
 
-We specialize in a combination of qualitative and quantitative analysis that drive business value, focusing on an organization’s decision making, and anchored by its data. 
+We focus on an organization’s decision making with a combination of qualitative and quantitative analysis. This drives business value, by anchoring decisions in an organization's data. 
 
 Our client-focused approach ensures that we align our expertise with your unique business needs, empowering you to make quality data-driven decisions.
 
-## Our services:
+## Our services
 
 -	Guidance developing and formulating analysis of risky decisions with long-term consequences, for example, whether to attempt a “digital transformation” by shifting operations to cloud automation. 
 -	Development of custom statistical models, designed to support your business goals, for example, A/B testing protocols to improve products and services.
 -	Development of problem-solving models that combine expert judgment and performance data to root-cause failures, for example to improve reliability in lean manufacturing or distributed web services.
 
-## Our experience includes
+## Our experience 
 
 -	Software automation of business processes,
 -	Developing, prototyping, and running data-intensive experiments,  
@@ -33,7 +33,9 @@ Our client-focused approach ensures that we align our expertise with your unique
 -	Application of the gamut artificial intelligence methods spanning machine learning, data science, and large language models for prediction and forecasting,
 -	Manager-level training on fundamentals of how to apply AI automation to your business, and foster a culture of evidence-based management.
 
-# Work with us *before* you commit to a major Cloud deployment.
+# Talk to us *before* committing to a major Cloud deployment!
+
+You are better off with a strategy that starts with your business objectives, then creates the decision models that support them, and finally to the software and hardware infrastructure to deploy them. 
 
 **Contact Us**
 Email: [info "at" fondata.ai](<info@fondata.ai>){.text-font}

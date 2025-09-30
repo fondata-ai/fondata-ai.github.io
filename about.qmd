@@ -13,7 +13,9 @@ We are a team of seasoned applied researchers, data scientists and academics, wi
 
 ### John Mark Agosta
 
-John Mark Agosta has a long and varied applied research career in the San Francisco Bay Area that extends back over 30 years, to the early days of AI. Most recently he spent eight years with Microsoft, as part of the Azure Data AI Co-innovation Engineering Team. He's held positions at SRI International, Toyota ITC, and Intel Research, interspersed with stints at several startups, during which he's written over 30 peer-reviewed publications and 6 accepted patents.  He founded the Bayesian Applications Workshop in 2002 that accompanies the Uncertainty in AI conference, and was awarded a Business Fellowship at the Santa Fe Institute in 2007. He holds a Bachelor's in Physics from Yale University, a Master's in Science Policy from George Washington University, and a PhD in Management Science and Engineering from Stanford University. 
+__John Mark Agosta__ has a long and varied applied research career in the San Francisco Bay Area that extends back over 30 years, to the early days of AI. Most recently he spent eight years with Microsoft, as part of the Azure Data AI Co-innovation Engineering Team. He's held positions at SRI International, Toyota ITC, and Intel Research, interspersed with stints at several startups. John Mark written over 30 peer-reviewed publications and has 6 accepted patents.  He founded the Bayesian Applications Workshop in 2002 that accompanies the Uncertainty in AI conference, and was awarded a Business Fellowship at the Santa Fe Institute in 2007. 
+
+He holds a Bachelor's in Physics from Yale University, a Master's in Science Policy from George Washington University, and a PhD in Management Science and Engineering from Stanford University. 
 
 Email: [johnmark "dot" agosta "at" fondata.ai](<johnmark.agosta@fondata.ai>)
 
@@ -23,17 +25,28 @@ Email: [johnmark "dot" agosta "at" fondata.ai](<johnmark.agosta@fondata.ai>)
 
 [Find me on Medium.com ](https://medium.com/@johnmark54)
 
+### Dana Wang
+
+__Dana Wang__ has experience as a Management Professor (U of Texas), as an Organizational Researcher (Stanford University), in IP Management and Marketing (U of Michigan), as a Corporate Venture Associate (DTE Energy), and in Equity Research (Lehman Brothers). Dana specializes in 
+* Quantitative and qualitative research. 
+* R, STATA, SAS, SPSS, Excel. Atlas.ti.
+* Semi-structured interviews, ethnographic field study, archival research.
+* Due diligence – early stage investment, IP investment, acquisition of art objects.
+* Presentation skills – conferences, VC advisory boards, university classrooms, museums.
+
+Dana has a Ph.D. in Organizations, Technology and Entrepreneurship management from Stanford University, and an MBA from Stephen M. Ross School of Business, University of Michigan. 
+
+Email: [dana"dot" wang "at" fondata.ai](<dana.wang@fondata.ai>)
 ----
 
-
-We work closely with other specialized software services and products companies, in areas related to our competencies.
-
-<!--
-[Win-Vector Labs](https://www.win-vector.com/) is a San Francisco based company specializing in data science. See their textbook [Practical Data Science with R](http://www.practicaldatascience.com/).
--->
 ## Partnerships
 
-Fondata is a distributor for [Bayes Fusion](https://bayesfusion.com/) artificial intelligence modeling and machine learning software based on Bayes networks. As a reseller of _Genie_, and _Smile_ software we provide training and consulting for model creation and software integration. We offer a day's consulting service with purchase of any of the products. See [Bayes Fusion](https://bayesfusion.com/) for pricing.  
+Fondata works closely with other specialized software services and products companies, in areas related to our competencies.
+
+
+[Win-Vector Labs](https://www.win-vector.com/) is a San Francisco based consulting company specializing in applied statistics and data science. Win-Vector works in a variety of industries, with organizations both large and small.  They are known for their widely usedd textbook, [Practical Data Science with R](http://www.practicaldatascience.com/).
+
+Fondata is a distributor for [Bayes Fusion](https://bayesfusion.com/) Bayes networks artificial intelligence modeling and machine learning software. As a reseller of Bayes Fusion's _Genie_, and _Smile_ software we provide training and consulting for model creation and software integration. We offer a day's consulting service with purchase of any of the products. See [Bayes Fusion](https://bayesfusion.com/) for pricing.  
 
 ![](bayesfusion_logo.png)
 

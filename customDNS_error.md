@@ -25,3 +25,12 @@ When I click through the error I get a 404 There isn't a GitHub Pages site here
 I've added an HTTP record that points to mysite-ai.github.io.
 
 Anyone know how to figure out what the solution is to get this site running?
+
+-----
+Solution:
+
+
+1) Only the github organization needs to be verified.  Also verifying fondata.ai from jmagosta (my personal account)
+under "pages" confuses github and forces periodic unverifing.
+
+2) A commit pull - push cycle is necessary to re-set the static github site (Error is a 404 from github)
