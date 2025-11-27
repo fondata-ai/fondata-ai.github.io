@@ -12,32 +12,37 @@ format: html
 
 # *Fondata, LLC*
 
-## Custom decision modelling to improve your business strategy and processes
+## IMPROVING BUSINESS STRATEGY AND PROCESSES THROUGH DECISION MODELLING
 
 
-We focus on an organization’s decision making with a combination of qualitative and quantitative analysis. This drives business value, by anchoring decisions in an organization's data. 
+We focus on an organization’s decision making with a combination of qualitative and quantitative analysis, drawing on tools from data science and artificial intelligence. This drives business value, by grounding decisions in your organization's data. 
 
 Our client-focused approach ensures that we align our expertise with your unique business needs, empowering you to make quality data-driven decisions.
 
 ## Our services
 
--	Guidance developing and formulating analysis of risky decisions with long-term consequences, for example, whether to attempt a “digital transformation” by shifting operations to cloud automation. 
--	Development of custom statistical models, designed to support your business goals, for example, A/B testing protocols to improve products and services.
--	Development of problem-solving models that combine expert judgment and performance data to root-cause failures, for example to improve reliability in lean manufacturing or distributed web services.
+-	Guidance developing and formulating analysis of **risky decisions** with long-term consequences, for example, whether to attempt a “digital transformation” by automating operations in the cloud. 
+-	Development of **custom statistical models,** designed to support your business goals, for example, A/B testing protocols to improve products and services.
+-	Development of problem-solving models that combine expert judgment and performance data to **root-cause failures,** for example to improve reliability in lean manufacturing or distributed web services.
 
 ## Our experience 
 
--	Software automation of business processes,
--	Developing, prototyping, and running data-intensive experiments,  
--	Implementing solutions using cloud services, such as Azure,
--	Application of the gamut artificial intelligence methods spanning machine learning, data science, and large language models for prediction and forecasting,
--	Manager-level training on fundamentals of how to apply AI automation to your business, and foster a culture of evidence-based management.
+-	**Software** automation of business processes,
+-	Developing, prototyping, and running data-intensive **experiments,**  
+-	Implementing solutions using **cloud services,** such as Azure,
+-	Application of the gamut **artificial intelligence** methods spanning machine learning, data science, and large language models for prediction and forecasting,
+-	Manager-level **training** on fundamentals of how to apply AI automation to your business, and foster a culture of evidence-based management.
 
-# Talk to us *before* committing to a major Cloud deployment!
+## Talk to us *before* committing to a major Cloud deployment!
 
-You are better off with a strategy that starts with your business objectives, then creates the decision models that support them, and finally to the software and hardware infrastructure to deploy them. 
+We can help you create pragmatic, data-driven strategies that:
+
+
+-   align with your business objectives,
+-   build decision models to guide action,
+-   validate models with experiments on your data, and
+-   size software and hardware deployments to match validated needs.
+
 
 **Contact Us**
 Email: [info "at" fondata.ai](<info@fondata.ai>){.text-font}
-
-----

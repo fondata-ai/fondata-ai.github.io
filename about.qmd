@@ -13,9 +13,9 @@ We are a team of seasoned applied researchers, data scientists and academics, wi
 
 ### John Mark Agosta
 
-__John Mark Agosta__ has a long and varied applied research career in the San Francisco Bay Area that extends back over 30 years, to the early days of AI. Most recently he spent eight years with Microsoft, as part of the Azure Data AI Co-innovation Engineering Team. He's held positions at SRI International, Toyota ITC, and Intel Research, interspersed with stints at several startups. John Mark written over 30 peer-reviewed publications and has 6 accepted patents.  He founded the Bayesian Applications Workshop in 2002 that accompanies the Uncertainty in AI conference, and was awarded a Business Fellowship at the Santa Fe Institute in 2007. 
+__John Mark Agosta__ has a long and varied applied research career in the San Francisco Bay Area that extends back over 30 years, to the early days of AI. Most recently he spent eight years with Microsoft, as part of the Azure Data AI Co-innovation Engineering Team. He's held positions at SRI International, Toyota ITC, and Intel Research, interspersed with stints at several startups. John Mark has written over 30 peer-reviewed publications and is an inventor listed on  six accepted patents.  He founded the Bayesian Applications Workshop in 2002 that accompanies the Uncertainty in AI conference, and was awarded a Business Fellowship at the Santa Fe Institute in 2007. 
 
-He holds a Bachelor's in Physics from Yale University, a Master's in Science Policy from George Washington University, and a PhD in Management Science and Engineering from Stanford University. 
+He holds a Bachelor's in Physics from Yale University, a Master's in Science Policy from George Washington University, and a Ph.D. in Management Science and Engineering from Stanford University. 
 
 Email: [johnmark "dot" agosta "at" fondata.ai](<johnmark.agosta@fondata.ai>)
 
@@ -27,24 +27,31 @@ Email: [johnmark "dot" agosta "at" fondata.ai](<johnmark.agosta@fondata.ai>)
 
 ### Dana Wang
 
-__Dana Wang__ has experience as a Management Professor (U of Texas), as an Organizational Researcher (Stanford University), in IP Management and Marketing (U of Michigan), as a Corporate Venture Associate (DTE Energy), and in Equity Research (Lehman Brothers). Dana specializes in 
-* Quantitative and qualitative research. 
-* R, STATA, SAS, SPSS, Excel. Atlas.ti.
-* Semi-structured interviews, ethnographic field study, archival research.
-* Due diligence – early stage investment, IP investment, acquisition of art objects.
-* Presentation skills – conferences, VC advisory boards, university classrooms, museums.
+__Dana Wang__ is an educator, a scientist, and a problem solver. She has taught students in a variety of capacities, from pre-schoolers to most recently, college students as a Management Professor at the University of Texas. She not only teaches fundamental concepts but also helps her students apply what they learn, such as resource creation in business strategy to their entrepreneurial endeavors.  
 
-Dana has a Ph.D. in Organizations, Technology and Entrepreneurship management from Stanford University, and an MBA from Stephen M. Ross School of Business, University of Michigan. 
+Her initial interest in basic chemistry and physics evolved towards applications. She was a technology transfer professional and marketer at the University of Michigan where she worked with faculty and students from the College of Engineering to transform their research ideas into intellectual property. As a student of STS, she has published papers on how technology changed the lives of ancient people and she enjoys studying today’s  transformations.   
 
-Email: [dana"dot" wang "at" fondata.ai](<dana.wang@fondata.ai>)
+Her work experience includes stints at corporate venture at DTE Energy, equity research at Lehman Brothers, and sales forecasting for a leading video gaming and entertainment company. She has conducted due diligence across subject matter, e.g., acquisition of art objects using scientific tools, creation of intellectual property, and early stage investment. Dana is unique for quantitative and qualitative research training. Not only is she versed in statistics but also semi-structured interviews, ethnographic field study, and archival research. 
+
+Dana has a B.A. in chemistry with highest honors from Oberlin College, a MBA with high distinction from the University of Michigan, and a Ph.D. from Management Science and Engineering from Stanford University. Her interdisciplinary dissertation research was funded by the NSF and Kauffman Foundation via Stanford Law School.
+
+
+Email: [dana "dot" wang "at" fondata.ai](<dana.wang@fondata.ai>)
+
 ----
 
 ## Partnerships
 
 Fondata works closely with other specialized software services and products companies, in areas related to our competencies.
 
+### Win-Vector Labs
 
-[Win-Vector Labs](https://www.win-vector.com/) is a San Francisco based consulting company specializing in applied statistics and data science. Win-Vector works in a variety of industries, with organizations both large and small.  They are known for their widely usedd textbook, [Practical Data Science with R](http://www.practicaldatascience.com/).
+[Win-Vector Labs](https://www.win-vector.com/) is a San Francisco based consulting company specializing in applied statistics and data science. Win-Vector works in a variety of industries, with organizations both large and small.  They are known for their widely used textbook, [Practical Data Science with R](http://www.practicaldatascience.com/).
+
+![](practical_DS_w_R.png)
+---
+
+### Bayes Fusion
 
 Fondata is a distributor for [Bayes Fusion](https://bayesfusion.com/) Bayes networks artificial intelligence modeling and machine learning software. As a reseller of Bayes Fusion's _Genie_, and _Smile_ software we provide training and consulting for model creation and software integration. We offer a day's consulting service with purchase of any of the products. See [Bayes Fusion](https://bayesfusion.com/) for pricing.  
 
