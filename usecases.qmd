@@ -7,92 +7,83 @@ about:
 ## Forecasting Use Cases
 
 
-### Financial forecasting, investor relations 
+### 1. Financial Forecasting, Investor Relations 
 
-Industry: Enterprise software
+Industry: Enterprise Software
 
 Functional Group: Corporate CFO
 
-Service:
-Using corporate accounting data, Machine Learning forecasting models improved the accuracy and timeliness of financial forecasts used for quarterly stockholder reports, resulting in improved shareholder communications and more time for strategic planning.
+We improved the accuracy and timeliness of financial forecasts used in quarterly stockholder reports by developing machine machine learning forecasting models. Resulted in improved shareholder communications and, by increasing efficiency, allowed CFO to allocate more time to strategic planning.
 
 
-### Forecasting and Budgeting consolidation in the Cloud
+### 2. Forecasting and Budgeting consolidation in the Cloud
 
 Industry: Telecommunications
 
 Functional group: Finance & Budgeting, multinational corporation
 
-Service:
-Forecasting and budgeting by centralizing and consolidating data as a Cloud service across functional groups reduced overall workload, by improving integration across subsidiaries. 
+We moved forecasting and budgeting across functional groups to centralized data in the Cloud. Reduced overall workload and improved integration across subsidiaries. 
 
-### Real-time Auto-Scaling Deployment Decision
+### 3. Real-time Auto-Scaling Deployment Decision
 
-Industry: Cloud software
+Industry: Cloud Software
 
 Functional Group: Product Engineering
 
-Service: 
-Cloud service provider reported customer website failure under load. Provider asked whether or not to implement auto-scaling -- dynamic adjustment of computer resources based on predicted demand. Prediction models showed auto-scaling optimization had potential savings of $500K/year, but a decision analysis of alternatives showed the ROI did not justify auto-scaling. 
+Cloud service provider presented a problem -- their customer website failed under load -- and asked whether what was needed was cluster autoscaling: implementing dynamic adjustment of computer resources based on predicted demand. Developed prediction models showing auto-scaling optimization offered potential savings to $500K/year. Client was advised _not_ to implement autoscaling after further analysis of other alternatives showed better ROI.
 
 ----
 
-## Supply Chain Use Cases
+## Supply-Chain Use Cases
 
-### Real-time stock management: Estimating resources on-hand to meet random “walk-in” demand
+### 1. Real-time stock management: Estimating resources on-hand to meet random “walk-in” demand
 
-Industry: Fast food
+Industry: Fast Food
 
 Functional Group: CTO 
 
-Service: How many items should be ready-made? Too many - cold and wasted. Too few - lost revenue. Built a real time predition model that trades off lost revenue with cost of discarded goods, to maximize profit.   
+Client asked -- How many items should be ready-made in anticipation of customer demand? Too many -- goods will be cold and wasted. Too few -- lost revenue. We built the customer a real time prediction model that trades off lost revenue with the cost of discarded goods, to maximize profit.
 
-### Sizing Seasonal Agricultural Product Shipping Requirements 
+### 2. Sizing Seasonal Agricultural Product Shipping Requirements 
 
-Industry: Freight Transportation Arrangement Industry 
+Industry: Freight Transportation Cooperative 
 
 Functional Group: Operations
 
-Service: 
-Forecasted customer demand by analyzing historical data on freight category, destination, and quantity. Client used forecast to match suppliers with customers in ship provisioning, maximizing utilization by reducing the number of freight transportation vessels. 
+We trained a model to forecast seasonal demand for agricultural products by analyzing historical data on freight category, destination, and quantity. Client used this forecast to match suppliers with customers in shipment provisioning, maximizing utilization by reducing the number of freight transportation vessels. 
 
-### Durable goods yield management to free up inventory capacity
+### 3. Durable goods yield management 
 
 Industry: Consumer Electronics,  Computer Hardware
 
 Functional Group: Finance & Accounting Operations
 
-Service: 
-Revenue optimization by yield management to optimize inventory turnover. Generated "markdown" models to estimate price elasticity of retail hardware that was used by client to set prices and quotas for existing stock resulting in reduction of inventory of older units, allowing room for new ones.
+To improve yield management, we generated markdown pricing models by estimating product price elasticities. These were used by the client for yield management that trades off forecasted revenue with inventory holding opportunity costs of existing stock, freeing up inventory of older, deprecated units, to allow room for newer, more profitable models.
 
-### Simulations of Electronic Health Records histories for Hospital management 
+### 4. Simulation of Electronic Health Records histories for Hospital management 
 
 Industry: Healthcare
 
 Functional Group: Hospital Finance and Strategic Planning
 
-Service: Estimating hospital bed capacity needs, e.g. number of hospital beds, by detailed simulation of population health trends. Factored in demographics, predicted disease prevalence and seasonal trends. 
-
-----
+We estimated hospital bed capacity needs, e.g. number of hospital beds, by detailed simulation of population health trends. The model factored in demographics, predicted disease prevalence, and seasonal trends to improve health outcomes under hospital budget constraints.
 
 ## Root-cause Analysis Use Cases
 
-### Semiconductor Fab Root cause fault analysis
+### 1. Semiconductor Fab Root-cause Fault Analysis
 
 Industry: Semiconductor manufacturing (fabrication plant)
 
 Functional Group: Lean Manufacturing Operations
 
-Service: 
-Piloted a causal model for ranking the source of equipment faults by their probability. Built an interactive intelligent diagnostic model that codified the knowledge of repair experts, resulting in reduced level of expertise needed. Novel AI approach for on-the-fly model adjustment and learning during diagnostic sessions. Pilot deployment reduced down time, reducing bottlenecks, and increasing throughput worth on the order of a few million dollars incremental revenue per year. 
+We piloted a causal model for ranking the root-causes of equipment faults by their probability. Built an interactive intelligent diagnostic model that codified the knowledge of repair experts, resulting in reduced level of expertise needed, using a novel AI approach for on-the-fly model adjustment and learning during diagnostic sessions. Pilot deployment reduced down time by reducing bottlenecks, and increasing throughput. Predicted revenue increase estimated to be a few million dollars per year.
 
-### Diagnosing "OnTime and In Full" (OTIF) Failure Root Causes
+### 2. Diagnosing "On Time and In Full" (OTIF) Failure Root-causes
 
-Industry: Food service disposable and packaging, MNC
+Industry: Food service packaging, Multi-national Corporation
 
 Functional Group: Corporate Accounting
 
-Service: 
-Developed a model from existing production data to predict OTIF that revealed that OTIF failures did _not_ originate in production.  Existing production scheduling was driven to avoid presumed shortages in output, resulting in excess inventory sitting in warehouses. Based on exploratory analyses advised the firm to adopt JIT (Just-In-Time manufacturing) to optimize inventory management. 
+We discovered actual sources of production inefficiencies for our client.  They had assumed production delays caused OTIF failures. We developed a model from existing production data to predict OTIF, which revealed, surprisingly that OTIF failures did _not_ originate in production.  Existing production scheduling was driven solely to avoid presumed delivery shortages, resulting in excess inventory sitting in warehouses. Based on this analyses we successfully identified the real inefficiency and advised the firm to adopt JIT (Just-In-Time manufacturing) to optimize inventory management. 
 
 ----
