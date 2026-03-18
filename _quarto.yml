@@ -13,10 +13,13 @@ website:
         href: index.qmd  
       - usecases.qmd
       - about.qmd
+      - text: "software"
+        href: ./BF_poster.pdf
+        target: _blank
   margin-header: |
      ![](/fdlogo.png)
   body-footer: |
-     © Copyright 2025 Fondata, LLC. 
+     © Copyright 2025-6 Fondata, LLC. 
 
 format: 
   html:

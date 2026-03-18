@@ -53,8 +53,10 @@ Fondata works closely with other specialized software services and products comp
 
 ### Bayes Fusion
 
-Fondata is a distributor for [Bayes Fusion](https://bayesfusion.com/) Bayes networks artificial intelligence modeling and machine learning software. As a reseller of Bayes Fusion's _Genie_, and _Smile_ software we provide training and consulting for model creation and software integration. We offer a day's consulting service with purchase of any of the products. See [Bayes Fusion](https://bayesfusion.com/) for pricing.  
+Fondata is a distributor for [Bayes Fusion](https://bayesfusion.com/) Bayes networks artificial intelligence modeling and machine learning software. As a reseller of Bayes Fusion's _Genie_, and _Smile_ software we provide training and consulting for model creation and software integration. We offer a day's consulting service with purchase of any of the products. 
 
 ![](bayesfusion_logo.png)
+
+[_More about our partnership and what it can do for you._ ](./BF_poster.pdf)
 
 ----

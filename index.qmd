@@ -24,6 +24,7 @@ Our client-focused approach ensures that we align our expertise with your unique
 -	Guidance developing and formulating analysis of **risky decisions** with long-term consequences, for example, whether to attempt a “digital transformation” by automating operations in the cloud. 
 -	Development of **custom statistical models,** designed to support your business goals, for example, A/B testing protocols to improve products and services.
 -	Development of problem-solving models that combine expert judgment and performance data to **root-cause failures,** for example to improve reliability in lean manufacturing or distributed web services.
+-   Training classes and consulting services to support these decision, statistical, and diagnostic methods. 
 
 ## Our experience 
 
